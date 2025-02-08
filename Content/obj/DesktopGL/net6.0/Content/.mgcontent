@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/abdel/source/repos/Snake game/Content/apple.png</File>
+    <File>C:/Users/abdel/source/repos/Snake game/Content/body_horizontal.png</File>
+    <File>C:/Users/abdel/source/repos/Snake game/Content/font.spritefont</File>
+    <File>C:/Users/abdel/source/repos/Snake game/Content/Grass_17-128x128.png</File>
+    <File>C:/Users/abdel/source/repos/Snake game/Content/head_down.png</File>
+    <File>C:/Users/abdel/source/repos/Snake game/Content/head_left.png</File>
+    <File>C:/Users/abdel/source/repos/Snake game/Content/head_right.png</File>
+    <File>C:/Users/abdel/source/repos/Snake game/Content/head_up.png</File>
+    <File>C:/Users/abdel/source/repos/Snake game/Content/Snake.png</File>
+    <File>C:/Users/abdel/source/repos/Snake game/Content/tail_down.png</File>
+    <File>C:/Users/abdel/source/repos/Snake game/Content/tail_left.png</File>
+    <File>C:/Users/abdel/source/repos/Snake game/Content/tail_right.png</File>
+    <File>C:/Users/abdel/source/repos/Snake game/Content/tail_up.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
