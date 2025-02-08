@@ -7,6 +7,6 @@ The Snake game is a classic video game where the player controls a long, thin cr
 
 ## Installation
 
-Execute exe that is inside solution without any dependencies
-``Snake game\bin\Debug\net6.0``
+Execute exe that is inside solution without any dependencies <br />
+``Snake game\bin\Debug\net6.0`` <br />
 ![Alt text](https://github.com/KimDev16/Snake-Game/blob/master/1.PNG "a title")
