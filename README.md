@@ -9,4 +9,4 @@ The Snake game is a classic video game where the player controls a long, thin cr
 
 Execute exe that is inside solution without any dependencies
 ``Snake game\bin\Debug\net6.0``
-![Alt text]([[https://assets.digitalocean.com/articles/alligator/boo.svg](https://github.com/KimDev16/Snake-Game/blob/master/1.PNG)](https://github.com/KimDev16/Snake-Game/blob/master/1.PNG) "Snake Game Image")
+![Alt text](https://github.com/KimDev16/Snake-Game/blob/master/1.PNG "a title")
